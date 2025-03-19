@@ -22,4 +22,4 @@ El proyecto "Amigo Secreto" es una aplicación web simple que permite a los usua
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone https://github.com/kelvincoronado/amigo-secreto.git
+   git clone https://github.com/kelvincoronado/amigoSecreto.git
